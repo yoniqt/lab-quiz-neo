@@ -1,0 +1,9 @@
+total 28
+drwxrwxr-x 2 devasc devasc 4096 May  5 02:08 backup
+-rw-rw-r-- 1 devasc devasc  328 May  5 01:48 git_log.txt
+---------- 1 devasc devasc  480 May  5 02:02 info_network.py
+-rw-rw-r-- 1 devasc devasc   22 May  5 02:09 issue_summary.txt
+-rw-rw-r-- 1 devasc devasc  118 May  5 01:47 networking_notes.txt
+-rw-rw-r-- 1 devasc devasc   22 May  5 02:02 network_issue.txt
+-rw-rw-r-- 1 devasc devasc    0 May  5 02:12 permissions.txt
+-rw-rw-r-- 1 devasc devasc   25 May  5 01:37 README.md
