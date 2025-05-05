@@ -1,0 +1,6 @@
+
+- IP address conflicts
+- DNS resolution failures
+- Network congestion
+- Misconfigured firewalls
+- DHCP server issues
